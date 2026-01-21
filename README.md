@@ -1,4 +1,5 @@
 📦 E-Commerce Supply Chain Performance Analysis
+
 📌 Project Overview
 
 In the fast-paced e-commerce industry, an efficient supply chain is critical for customer satisfaction and business growth.
@@ -27,21 +28,13 @@ Format: CSV
 Key Data Fields Include:
 
 Order ID
-
 Order Date
-
 Ship Date
-
 Customer Region
-
 Product Category
-
 Sales
-
 Quantity
-
 Profit
-
 Shipping Mode
 
 🛠 Tools & Technologies Used
